@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zyl-jiban.plugintemp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zyl-jiban.plugintemp.MyBundle
 
 class MyApplicationService {
 
